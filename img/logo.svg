@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 420 120"
+     role="img"
+     aria-labelledby="title desc"
+     preserveAspectRatio="xMinYMid meet">
+  <title id="title">Maria Sabores</title>
+  <desc id="desc">Restaurant logo with fork and spoon icon and brand text Maria Sabores</desc>
+
+  <!-- Icon section -->
+  <g transform="translate(50,60)">
+    <circle r="40" fill="#facc15" />
+    <path d="M-18 -20 v40 h4 v-18 h4 v18 h4 v-40 h-4 v14 h-4 v-14 z" fill="#78350f"/>
+    <path d="M10 -20 a10 10 0 0 1 0 20 v20 h-4 v-20 a10 10 0 0 1 0-20 z" fill="#78350f"/>
+  </g>
+
+  <!-- Brand name -->
+  <text x="120" y="65" font-family="Georgia, serif" font-weight="700"
+        font-size="42" fill="#1c1917">
+    Maria Sabores
+  </text>
+
+  <text x="380" y="45" font-family="Arial, sans-serif" font-size="14" fill="#1c1917">
+    ®
+  </text>
+</svg>

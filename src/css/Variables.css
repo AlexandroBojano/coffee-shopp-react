@@ -1,0 +1,13 @@
+:root {
+  --color-primary: #6F4E37;
+  --color-secondary: #F5F1E6;
+  --color-dark: #3E2F23;
+  --color-accent: #D2A679;
+  --color-highlight: #B59E82;
+
+  --font-primary: 'Roboto', sans-serif;
+  --font-heading: 'Playfair Display', serif;
+
+  --border-radius: 8px;
+  --transition: 0.3s ease-in-out;
+}

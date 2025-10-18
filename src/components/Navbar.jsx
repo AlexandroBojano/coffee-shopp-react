@@ -1,9 +1,12 @@
 import "../../src/css/Navbar.css"
+import profile from "../../img/user1.jpg"
 
 const Navbar = () => {
     return (
         <aside>
-            <h1>nav</h1>
+            <div>
+                <img src={profile} alt="" />
+            </div>
         </aside>
     )
 }
